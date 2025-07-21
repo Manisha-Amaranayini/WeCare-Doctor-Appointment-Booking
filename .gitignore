@@ -1,0 +1,6 @@
+/node_modules
+
+.env
+mongoURL="mongodb+srv://manishaamaranayini:3xkI1BiDqyTzoQWO@cluster0.5amou.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+port=4004
+key="nuibhSDBDYIWvbbgwuu"
