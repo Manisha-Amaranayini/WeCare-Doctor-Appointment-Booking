@@ -1,1 +1,1 @@
-# WeCare-Doctor-Appointmewnt-Booking
+# WeCare-Doctor-Appointment-Booking
